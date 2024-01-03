@@ -16,7 +16,7 @@ void main()
    if(a[i]==key)
    {
     flag=1;
-    printf("enter found at %dth position",i+1);
+    printf("found at %dth position",i+1);
     }
     if(flag==0)
      {printf("element not found");
